@@ -102,7 +102,7 @@ img {
 
 .section-b {
   position: relative;
-  background: url(../img/section-b.jpg) no-repeat bottom center/cover;
+  background: url(../img/section-b.jpg) no-repeat center/cover;
   height: 600px;
 }
 
